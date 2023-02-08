@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Manish Thakur</h1>
-<h3 align="center">A writer who's into machine learning with some natural creativity in development 🇮🇳.</h3>
+<h3 align="center">A writer who's into machine learning with some natural creativity in development.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/640/1*mr7WXw8tgpMhqugKP2WhrA.gif">
 <p align="left"> <a href="https://twitter.com/manishthakur026" target="blank"><img src="https://img.shields.io/twitter/follow/manishthakur026?logo=twitter&style=for-the-badge" alt="manishthakur026" /></a> </p>
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **Java, HTML,CSS,JAVASCRIPT, BOOTSTRAP, Python3, Figma,React**
+- 💬 Ask me about **Java, HTML,CSS,JAVASCRIPT, BOOTSTRAP, Python3, Figma and React**
 
 - 📫 How to reach me **manishthakur43209@gmail.com**
 
