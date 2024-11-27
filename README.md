@@ -6,11 +6,9 @@
 
 - 🌱 I’m currently working on **EDA, Data Science, MySql, & Visualization Tools Like Tableau & Power BI**
 
-- 💬 Ask me about **Java, HTML,CSS,JAVASCRIPT, BOOTSTRAP, Python3, Figma and React**
-
 - 📫 How to reach me **manishthakur43209@gmail.com**
 
-- ⚡ Fun fact **I think I am far more sarcastic than you think.**
+- ⚡ Fun fact ** Cricket? **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
