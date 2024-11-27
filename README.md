@@ -8,7 +8,7 @@
 
 - 📫 How to reach me **manishthakur43209@gmail.com**
 
-- ⚡ Fun fact ** Cricket? **
+- ⚡ **Cricket?**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
